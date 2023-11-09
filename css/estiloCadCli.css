@@ -1,0 +1,50 @@
+.blocoA{
+
+	width:50%;
+
+}
+
+.blocoA img{
+
+	width: 200px;
+	height: 200px;
+	margin-top: 50px;
+    margin-left: 150px;
+}
+
+#blocoAinfo{
+
+    border: 2px dashed red;
+    border-radius: 5px;
+    width: 400px;
+    height: 100px;
+    margin-left: 60px;
+    margin-top: 25px;
+}
+
+#blocoAinfo p{
+
+	font-size:18px;
+    text-align: center;
+    margin-top: 25px;
+}
+
+.blocoB{
+
+	float:right;
+	width:50%;
+	margin-top: 50px;
+
+}
+
+h1{
+
+	font-size:30px;
+	color:#00A3D9;
+	border:2px dashed red;
+	border-radius:5px;
+	width:150px;
+	text-align:center;
+	margin-left:100px;
+
+}

@@ -1,0 +1,115 @@
+.inputAll{
+
+    outline: 0;
+    border: 2px solid #B5B5B5;
+    border-radius:5px;
+    padding: 5px;
+	
+}
+
+.inputAll:focus{
+
+	box-sizing: border-box;
+	border: 2px solid #FF6666;
+	transition: 1s;	      
+
+}
+
+.buttonAll{
+
+    padding: 5px 20px;
+    font-size: 16px;
+    background: #E9967A;
+    color: #FFF;
+    border-radius: 8px;
+    outline: 0;
+    font-weight: bold;
+}
+
+.buttonAll:hover{
+
+	background: #FFF;
+	color:#E9967A;
+	transition: 1s;
+	font-weight: bold;
+}
+
+fieldset{
+
+	border:2px dashed red;
+	border-radius:5px;
+}
+
+h1{
+
+	font-size:30px;
+	color:#00A3D9;
+	border:2px dashed red;
+	border-radius:5px;
+	text-align:center;
+	margin-top: 10px;
+    width: 300px;
+    padding: 5px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+fieldset{
+
+	border:2px dashed red;
+	padding:5px 15px 10px;
+
+}
+
+legend{
+
+	text-align:center;
+	width:auto;
+}
+
+
+table{
+
+	width:800px;
+
+}
+
+#bloco{
+
+	float: right;
+
+
+}
+#bloco img{
+
+	width: 200px;
+	height: 200px;
+	margin-top: 20px;
+	margin-left: 100px;
+
+}
+
+#blocoInfo{
+
+    border: 2px dashed red;
+    border-radius: 5px;
+    width: 400px;
+    height: 130px;
+    margin-top: 25px;
+
+}
+
+#blocoInfo p{
+
+	font-size:18px;
+    text-align: center;
+    margin-top: 25px;
+}
+
+#conteudoCadFor{
+
+	width:850px;
+	margin-left:auto;
+	margin-right:auto;
+	padding-bottom: 50px;
